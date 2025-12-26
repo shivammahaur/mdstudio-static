@@ -114,6 +114,31 @@ a:hover {
     margin: 20px 0px;
 }
 
+.project {
+    margin-top: 64px;
+}
+
+.project p {
+    padding: 0;
+    margin: 0;
+}
+
+.project .copy {
+    margin-top: 20px;
+    max-width: 640px;
+}
+
+.project h2 {
+    margin-bottom: 10px;
+}
+
+.project-media {
+    margin-top: 20px;
+    margin-bottom: 24px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+
 @media screen and (max-width:600px) {
     .wrap {
         padding:20px 10px;
